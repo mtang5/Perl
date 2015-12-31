@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+print "Content-type:text/html\n\n"; #required for all Perl program
+
 $x = 1; #scalar variable
 
 $number = 2;
