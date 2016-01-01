@@ -27,6 +27,6 @@ print "@array3\n"; # print out 'leaf naruto hinata boruto himawari'
 
 shift(@array3); # remove item on left hand side
 
-print "@array3"; # print out 'naruto hinata boruto himawari'
+print "@array3"; # print out 'naruto hinata boruto himawari' 
 
 exit;
